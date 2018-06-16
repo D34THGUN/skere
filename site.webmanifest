@@ -1,0 +1,19 @@
+{
+    "name": "Pensamiento Otaku",
+    "short_name": "Pensamiento Otaku",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-rbsV9QHt2uY/WyUCusheQpI/AAAAAAAADAo/8QPt7D3KSbYFu01HkT5vg3t2PZUlXVQDwCLcBGAs/s1600/Sin%2Bt%25C3%25ADtulo-1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://4.bp.blogspot.com/-WCJgjvFYerM/WyUCuY5XORI/AAAAAAAADAk/nrlHDzeN22cYUrIJuORPW7z3-jErfDvPACLcBGAs/s1600/Sin%2Bt%25C3%25ADtulo-12.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
